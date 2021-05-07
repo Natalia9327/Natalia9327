@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Natalia9327
+- 👋 Hi, I’m Natalia, 27 years old
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on interesting projects
